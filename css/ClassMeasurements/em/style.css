@@ -1,0 +1,11 @@
+body {
+    font-size: 20px;
+}
+
+.text-container {
+    font-size: 1em; /* Font size 20 px*/
+}
+
+.text-container div {
+    font-size: 2em; /* Font size 40 px */
+}
